@@ -15,6 +15,10 @@ A premium, framework-free HTML template for HVAC service companies. Ice blue and
 | **Services** | [services.html](services.html) | Detailed service breakdowns with alternating layouts (installation, repair, maintenance, commercial) |
 | **Contact** | [contact.html](contact.html) | Service request form, emergency contact info, business hours |
 
+## 📸 Screenshot
+
+![Homepage Preview](screenshot.png)
+
 ## 🎨 Design System
 
 | Token | Value | Usage |
